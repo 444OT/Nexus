@@ -12,7 +12,7 @@ _G.Key = "nexusot" -- You Put Your Key Here
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/444OT/Nexus/main/Script?token=GHSAT0AAAAAACABJSAYDT4OOLIJPZDSG53MZARCEAQ')))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/444OT/Nexus/main/Script')))()
 
 end
 
